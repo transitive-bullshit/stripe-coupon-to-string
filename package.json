@@ -1,6 +1,6 @@
 {
   "name": "stripe-coupon-to-string",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts a Stripe Coupon to a string that describes the discount.",
   "repository": "transitive-bullshit/stripe-coupon-to-string",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
