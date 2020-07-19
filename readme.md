@@ -1,6 +1,6 @@
 # stripe-coupon-to-string
 
-> Converts a [Stripe Coupons](https://stripe.com/docs/api/coupons/object) to a string that describes the discount.
+> Converts a [Stripe Coupon](https://stripe.com/docs/api/coupons/object) to a string that describes the discount.
 
 [![NPM](https://img.shields.io/npm/v/stripe-coupon-to-string.svg)](https://www.npmjs.com/package/stripe-coupon-to-string) [![Build Status](https://travis-ci.com/transitive-bullshit/stripe-coupon-to-string.svg?branch=master)](https://travis-ci.com/transitive-bullshit/stripe-coupon-to-string) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
