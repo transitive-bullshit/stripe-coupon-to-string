@@ -94,5 +94,6 @@ for (const fixture of fixtures) {
     const s = stripeCouponToString(fixture)
     console.log(s, fixture)
     t.truthy(s)
+    t.snapshot(s)
   })
 }
