@@ -8,6 +8,15 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "stripe",
+    "coupon",
+    "discount",
+    "promo",
+    "code",
+    "string",
+    "description"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "ava -v && standard"
