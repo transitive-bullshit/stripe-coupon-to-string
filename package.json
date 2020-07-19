@@ -1,0 +1,23 @@
+{
+  "name": "stripe-coupon-to-string",
+  "version": "0.1.0",
+  "description": "Converts a Stripe Coupons to a string that describes the discount.",
+  "repository": "transitive-bullshit/stripe-coupon-to-string",
+  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v && standard"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "standard": "^11.0.0"
+  },
+  "ava": {
+    "failFast": true,
+    "snapshotDir": "./.snapshots"
+  }
+}
